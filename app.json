@@ -17,10 +17,6 @@
     "token_bot" : {
       "description" : " El token del bot " ,
       "valor" : " "
-    },
-    "clave_usuario" : {
-      "description" : " La clave de la api (contactar a https://t.me/obisoftdev) " ,
-      "valor" : " "
     }
   },
   "paquetes de compilación" : [
